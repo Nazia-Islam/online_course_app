@@ -1,0 +1,8 @@
+.cart-container h3{
+    text-align: center;
+    margin-left: 10px;
+    background-color: cadetblue;
+    margin-top: 50px;
+    padding:10px;
+    border-radius: 8px;
+}
